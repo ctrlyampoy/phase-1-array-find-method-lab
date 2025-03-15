@@ -17,7 +17,7 @@ its argument. This is a common pattern for the `Array` methods we'll be
 learning about in this section — in fact, `indexOf()` is the only one that
 _doesn't_ take a callback function as an argument. `find()` is one of two
 `Array` methods that expects the callback function to return either `true` or
-`false` (`filter()` is the other one).
+`false` (`filter()` is the other one). 
 
 In this lab, we'll practice using the `find()` method.
 
@@ -33,7 +33,6 @@ const record = [
   { year: "2015", result: "W"},
   { year: "2014", result: "N/A"},
   { year: "2013", result: "L"},
-  //...
 ]
 ```
 
